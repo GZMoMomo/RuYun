@@ -30,3 +30,7 @@
 ## 2023.3.17
 1. 安装Superset并配置环境。
 2. 使用echarts绘图。
+
+## 2023.3.20
+1. 学习docker zookeeper Kafka
+2. 清洗数据做etl并优化报表。
