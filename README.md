@@ -47,6 +47,5 @@
 
 ## 2023.3.27-3.29
 ### chatgpt接入钉钉
-[ChatGPT-接入钉钉机器人技术架构.pdf](https://github.com/GZMoMomo/RuYun/files/11096938/ChatGPT-.pdf)
-
+[ChatGPT-接入钉钉机器人技术架构.pdf](https://github.com/GZMoMomo/RuYun/files/11096957/ChatGPT-.pdf)
 
