@@ -44,3 +44,9 @@
 ## 2023.3.23 -3.25
 1. 使用powerBI做耳机、音响数据分析报告，清洗细分类目属性数据
 2. 学会看文档和源码解决配置问题。
+
+## 2023.3.27-3.29
+### chatgpt接入钉钉
+[ChatGPT-接入钉钉机器人技术架构.pdf](https://github.com/GZMoMomo/RuYun/files/11096938/ChatGPT-.pdf)
+
+
