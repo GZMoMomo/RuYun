@@ -54,5 +54,6 @@
 2. 蓝牙耳机市场分析报告
 3. 流式数据架构发展 
     - mysql-Kafka connect-Kafka-fink-clickhouse
-    - mysql-debezium-kafka-flink-clickhouse 实现cdc，通过监控mysql日志。
+    - mysql-debezium-kafka-flink-clickhouse 实现cdc，通过监控mysql日志
+    - mysql-streamset-clickhouse ETL一体式平台 最新版本已经闭源了
     - mysql-flinkcdc-flink-clickhouse 使用flinkcdc，一体化ETL，减少维护成本
