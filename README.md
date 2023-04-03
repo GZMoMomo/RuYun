@@ -50,5 +50,9 @@
 [ChatGPT-接入钉钉机器人技术架构.pdf](https://github.com/GZMoMomo/RuYun/files/11097228/ChatGPT-.pdf)
 
 ## 2023.3.30 - 4.3
-1. chatgpt应用开发，接入钉钉
+1. chatgpt应用开发，接入钉钉，使用mysql实现联系用户历史信息上下文，采用多线程提高程序响应效率（在多人同时请求的情况下）
 2. 蓝牙耳机市场分析报告
+3. 流式数据架构发展 
+    - mysql-Kafka connect-Kafka-fink-clickhouse
+    - mysql-debezium-kafka-flink-clickhouse 实现cdc，通过监控mysql日志。
+    - mysql-flinkcdc-flink-clickhouse 使用flinkcdc，一体化ETL，减少维护成本
