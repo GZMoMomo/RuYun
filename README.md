@@ -49,3 +49,6 @@
 ### chatgpt接入钉钉
 [ChatGPT-接入钉钉机器人技术架构.pdf](https://github.com/GZMoMomo/RuYun/files/11097228/ChatGPT-.pdf)
 
+## 2023.3.30 - 4.3
+1. chatgpt应用开发，接入钉钉
+2. 蓝牙耳机市场分析报告
