@@ -57,3 +57,7 @@
     - mysql-debezium-kafka-flink-clickhouse 实现cdc，通过监控mysql日志
     - mysql-streamset-clickhouse ETL一体式平台 最新版本已经闭源了
     - mysql-flinkcdc-flink-clickhouse 使用flinkcdc，一体化ETL，减少维护成本
+
+## 2023.4.4-2023.4.6
+1. chatgpt应用开发，使用redis缓存用户聊天记录，接入dall e 图像生成API。
+2. 完成耳机数据报告 包含用户画像
