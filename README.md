@@ -70,4 +70,4 @@
 2. 引入Kafka做消息队列，控制请求速度，削峰解耦
 
 ## 2023.4.11
-1. gpt引入Kafka，序列化和反序列化对象传输，手动commit offset顺序消费。
+1. gpt引入Kafka，序列化和反序列化对象传输，手动commit offset顺序消费。注意Kafka 重平衡问题 rebalance
