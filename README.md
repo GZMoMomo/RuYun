@@ -107,3 +107,7 @@
 2. 销售什么样的蓝牙耳机指标体系建设。
 ![选取什么样的蓝牙耳机进行销售](https://user-images.githubusercontent.com/91240419/236373871-3b89bf54-a61f-4729-8629-e6d31cd55676.png)
 
+# 2023.5.8-5.9
+1. ambari已经编译安装成功，调研bigtop管理大数据生态。
+2. 蓝牙耳机指标体系优化并制作BI![选取什么样的蓝牙耳机进行销售_第三版](https://user-images.githubusercontent.com/91240419/237036961-fe75a37c-fac9-490e-b7a4-807e14969a15.png)
+
