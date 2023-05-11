@@ -111,3 +111,6 @@
 1. ambari已经编译安装成功，调研bigtop管理大数据生态。
 2. 蓝牙耳机指标体系优化并制作BI![选取什么样的蓝牙耳机进行销售_第三版](https://user-images.githubusercontent.com/91240419/237036961-fe75a37c-fac9-490e-b7a4-807e14969a15.png)
 
+# 2023.5.10-5.11
+1. ambari与bigtop集成成功，解决ssh 安装agent问题。
+2. 蓝牙耳机指标看板优化，jd库存同步-采购单部分
